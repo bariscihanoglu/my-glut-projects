@@ -1,0 +1,78 @@
+﻿  Source.cpp
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(62,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(63,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(63,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(72,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(72,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(91,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(91,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(107,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(107,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(177,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(194,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(222,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(227,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(228,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(245,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(273,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(278,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(279,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(319,41): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(319,30): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(319,19): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(334,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(334,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(335,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(335,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(336,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(336,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(337,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(337,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(339,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(339,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(339,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(339,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(343,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(343,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(343,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(343,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(344,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(344,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(344,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(344,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(345,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(345,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(345,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(345,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(346,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(346,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(346,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(346,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(347,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(347,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(347,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(347,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(348,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(348,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(348,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(348,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(349,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(349,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(349,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(349,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(351,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(351,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(352,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(352,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(353,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(353,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(354,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(354,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(359,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(359,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(360,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(360,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(361,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(361,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\TWINTOWERS_HW1\Source.cpp(595,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TWINTOWERS_HW1.vcxproj -> C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\TWINTOWERS_HW1\Debug\TWINTOWERS_HW1.exe

@@ -1,0 +1,81 @@
+﻿  Source.cpp
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(84,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(85,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(85,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(98,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(99,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(99,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(108,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(108,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(127,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(127,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(143,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(143,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(222,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(224,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(226,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(228,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(239,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(246,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(249,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(278,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(278,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(279,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(279,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(280,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(280,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(282,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(288,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(288,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(289,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(289,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(297,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(297,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(299,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(300,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(301,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(302,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(306,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(307,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(311,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(312,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(313,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(316,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(317,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(318,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(325,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(327,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(327,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(328,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(328,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(329,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(329,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(330,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(330,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(331,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(331,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(333,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(333,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(333,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(333,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(334,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(334,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(334,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(334,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(335,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(337,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(337,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(338,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(338,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(341,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(341,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(342,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(342,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(345,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(345,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(346,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(346,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(360,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(639,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\BALLOONS_HW2\Source.cpp(649,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BALLOONS_HW2.vcxproj -> C:\Users\baris\OneDrive\Masaüstü\2. Dönem\164\Düzgün Github\BALLOONS_HW2\Debug\BALLOONS_HW2.exe
