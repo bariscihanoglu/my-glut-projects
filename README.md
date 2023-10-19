@@ -8,5 +8,6 @@
 ### Project 1:
   ![Alt Text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_1.gif)
 ### Project 2:
-
+ ![Alt Text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_2.gif)
 ### Project 3:
+ ![Alt Text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_3.gif)
