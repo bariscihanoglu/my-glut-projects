@@ -16,12 +16,12 @@
   Balloons spawn randomly at the right half. <br>
   Balloon colors are random. There are 5 balloons and they change colors upon respawning. <br>
   There is a max score. If player gets a higher then the max score, program shows "New high score" and changes the max score. <br>
-  Background color changes according to the score.<br>
+  Background color changes according to the score.<br><br>
   ![Alt Text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_2.gif)
  
 ### Project 3 - Shoot The Ufo!:
   The enemy ufo follows a path that is found by using a 3rd degree function. <br>
   Our bullet changes form and position according to the enemy. <br>
   Birds will spawn randomly every time you open the game. <br>
-  There is a scoreboard where you can see how many times you shot the ufo. <br>
+  There is a scoreboard where you can see how many times you shot the ufo. <br><br>
   ![Alt Text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_3.gif)
