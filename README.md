@@ -1,16 +1,12 @@
 <h1 align='center'>My FreeGlut Projects</h1>
-<h6 align='center'>s</h2>
 
-# How to use this repo:
-Note: If you want to use the code in this repo, do NOT fork it. this repo has JS and Python versions of the same bot, so I fail to understand how will this be usefull if you fork it.
+# What is this repo about?
+  These are my projects that I made for my CTIS 164 Technical Mathematics with Programming course.
+  You have to install FreeGlut in order to run my programs.
+  All of the code is written in C language even though the file extensions are ".cpp".
 
-### Step 1:
-  Navigate to any cog you want.
-  Click on the "copy raw button"
-  
-####  Video demonstration:
-  ![Alt text](https://github.com/pogrammar/Discord-multipurpose-bot/blob/master/vids/Video%201.gif)
+### Project 1:
 
+### Project 2:
 
-### Step 2:
-  Hereafter, You need to replace any "..."'s or read the comments, if any customizing is required.
+### Project 3:
