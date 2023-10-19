@@ -6,7 +6,7 @@
   All of the code is written in C language even though the file extensions are ".cpp".
 
 ### Project 1:
-  <div align='center'>![Alt text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_1.gif)</div>
+  ![Alt text align='center'](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_1.gif)
 ### Project 2:
 
 ### Project 3:
