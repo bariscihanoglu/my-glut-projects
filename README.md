@@ -8,7 +8,7 @@
 ### Project 1:
   If use arrow keys, you can change the position of the plane. <br>
   Pressing w makes plane faster and pressing s makes it slower. <br>
-  Pressing n changes background to night or day. <br>
+  Pressing n changes background to night or day. <br><br>
   ![Alt Text](https://github.com/bariscihanoglu/my-glut-projects/blob/main/GIFS/PROJECT_1.gif)
   
 ### Project 2:
